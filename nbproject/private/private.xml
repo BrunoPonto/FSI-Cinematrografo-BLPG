@@ -4,10 +4,13 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/Alimento.java</file>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/Cliente.java</file>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/Empleado.java</file>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/Orden.java</file>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/Mesa.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFCliente.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFMesero.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFCajero.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFCocinero.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFGerente.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFAcceso.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/FSI-Fondatel/src/JFAlimentos.java</file>
         </group>
     </open-files>
 </project-private>
